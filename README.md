@@ -1,2 +1,2 @@
 # Rounded-Corner-Flat-Form-Design
-Create a WPF form with a Rounded Corner design.
+How to design a Rounded Corner Window in WPF.
